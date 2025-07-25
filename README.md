@@ -9,6 +9,8 @@
 
 번역에는 AI+손 번역 복합적으로 사용했습니다.(개인에 따라 부자연스러운 부분 있을 수 있음.)
 
+스팀 버전 기준으로 작업하였기 때문에 리프트/단독 버전 작동 테스트해보지 않았습니다.(작동 불가할 수 있음)
+
 ## 사용법
 
 * [Release](https://github.com/jesprojes123/Ancient-Dungeon-Korean-language-patch/releases) 페이지에서 한글패치 파일을 다운로드 하세요.
