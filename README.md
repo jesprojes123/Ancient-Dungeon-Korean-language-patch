@@ -15,4 +15,4 @@
 
 * [Release](https://github.com/jesprojes123/Ancient-Dungeon-Korean-language-patch/releases) 페이지에서 한글패치 파일을 다운로드 하세요.
 * [에이션트 던전의 설치된 경로](https://blog.naver.com/rmarkdtks3917/221842339134) 에 들어가세요. 
-  * Ancient dungeon.exe, Ancient_Dungeon_Data폴더가 있는지 확인한 후, 한글패치 zip파일 내 파일을 전부 덮어쓰기해주세요.
+  * Ancient dungeon.exe, Ancient_Dungeon_Data폴더가 있는지 확인한 후, 한글패치 zip파일 내 파일을 전부 덮어쓰기해주세요.(덮어쓰기 표시가 안뜨면 제대로 안된것)
