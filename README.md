@@ -1,8 +1,4 @@
 # 에이션트 던전 한글패치
-
-<br>
-<br>
-
 ## 소개
 
 [에이션트 던전 VR](https://erthu.de/ancientdungeon.html) 한글패치입니다.
